@@ -1,0 +1,4 @@
+AWSIoTPythonSDK==1.4.0
+python-memcached==1.59
+redis==2.10.6
+boto==2.49.0
